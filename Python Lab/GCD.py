@@ -1,4 +1,4 @@
-a,b = int(input()),int(input())
+a,b = int(input("Enter first number = ")),int(input("Enter second number = "))
 s = min(a,b)
 l = max(a,b)
 c = 1
