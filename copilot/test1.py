@@ -1,3 +1,1 @@
-# find smallest integer from array
-def small():
-    
+# create a random password generator

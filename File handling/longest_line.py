@@ -1,0 +1,6 @@
+fp = open(r"F:\CODES\Python Programs\File handling\Files\read.txt")
+l = fp.read().splitlines()
+c = list(map(len,l))
+m = c.index(max(c))
+print("Longest line : {} => {} characters".format(l[m],c[m]))
+fp.close()
