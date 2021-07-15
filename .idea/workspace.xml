@@ -2,31 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5433930f-2852-4969-9ba1-c5e6ed092f73" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/File handling/#_remove.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/176_start.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/armstrong.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/count_char_word.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/count_string.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/even.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/fibonacci.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/mean.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/odd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/prime.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/remove_content.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/Files/replace_gla.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/armstrong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/count_char_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/count_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/longest_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/mean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/prime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/replace_gla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File handling/start_176.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/copilot/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/copilot/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Set/duplicate_word_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Set/next_element_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Set/string_in_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Set/unique_multiple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chk_output.py" beforeDir="false" afterPath="$PROJECT_DIR$/chk_output.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,12 +57,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.replace_gla">
-    <configuration name="#_remove" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.next_element_sum">
+    <configuration name="duplicate_word_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,12 +71,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File handling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structures/Set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File handling/#_remove.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structures/Set/duplicate_word_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="count_char_word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="next_element_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,56 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File handling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structures/Set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File handling/count_char_word.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="count_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File handling" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File handling/count_string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File handling" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File handling/mean.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structures/Set/next_element_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,13 +129,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="string_in_element" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structures/Set" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structures/Set/string_in_element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unique_multiple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structures/Set" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structures/Set/unique_multiple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.next_element_sum" />
+        <item itemvalue="Python.duplicate_word_set" />
+        <item itemvalue="Python.string_in_element" />
+        <item itemvalue="Python.unique_multiple" />
         <item itemvalue="Python.replace_gla" />
-        <item itemvalue="Python.count_string" />
-        <item itemvalue="Python.#_remove" />
-        <item itemvalue="Python.count_char_word" />
-        <item itemvalue="Python.mean" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +207,9 @@
       <workItem from="1625676576465" duration="83000" />
       <workItem from="1625676736833" duration="10623000" />
       <workItem from="1625757067219" duration="10316000" />
-      <workItem from="1625829511961" duration="7306000" />
+      <workItem from="1625829511961" duration="9185000" />
+      <workItem from="1625850632526" duration="797000" />
+      <workItem from="1626347034400" duration="10248000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1623838884812</created>
@@ -248,7 +232,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625165535511</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1625845207597</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625845207597</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1625845453361</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625845453361</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +270,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Programs$unique_multiple.coverage" NAME="unique_multiple Coverage Results" MODIFIED="1626348424283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structures/Set" />
     <SUITE FILE_PATH="coverage/Python_Programs$replace_gla.coverage" NAME="replace_gla Coverage Results" MODIFIED="1625845089584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File handling" />
     <SUITE FILE_PATH="coverage/Python_Programs$__remove.coverage" NAME="#_remove Coverage Results" MODIFIED="1625843938284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File handling" />
     <SUITE FILE_PATH="coverage/Python_Programs$count_char_word.coverage" NAME="count_char_word Coverage Results" MODIFIED="1625832108140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File handling" />
@@ -280,10 +279,13 @@
     <SUITE FILE_PATH="coverage/Python_Programs$mean.coverage" NAME="mean Coverage Results" MODIFIED="1625830198237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File handling" />
     <SUITE FILE_PATH="coverage/Python_Programs$armstrong.coverage" NAME="armstrong Coverage Results" MODIFIED="1625683020909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File handling" />
     <SUITE FILE_PATH="coverage/Python_Programs$simple_ai.coverage" NAME="simple_ai Coverage Results" MODIFIED="1624802465445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects" />
+    <SUITE FILE_PATH="coverage/Python_Programs$string_in_element.coverage" NAME="string_in_element Coverage Results" MODIFIED="1626349454187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structures/Set" />
+    <SUITE FILE_PATH="coverage/Python_Programs$duplicate_word_set.coverage" NAME="duplicate_word_set Coverage Results" MODIFIED="1626352731898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structures/Set" />
     <SUITE FILE_PATH="coverage/Python_Programs$count_string.coverage" NAME="count_string Coverage Results" MODIFIED="1625844093635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File handling" />
     <SUITE FILE_PATH="coverage/Python_Programs$even_odd.coverage" NAME="even_odd Coverage Results" MODIFIED="1625678236731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File handling" />
     <SUITE FILE_PATH="coverage/Python_Programs$lamda_add.coverage" NAME="lamda_add Coverage Results" MODIFIED="1624300296845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/Lambda functions" />
     <SUITE FILE_PATH="coverage/Python_Programs$start_176.coverage" NAME="start_176 Coverage Results" MODIFIED="1625760021104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File handling" />
+    <SUITE FILE_PATH="coverage/Python_Programs$next_element_sum.coverage" NAME="next_element_sum Coverage Results" MODIFIED="1626354043003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structures/Set" />
     <SUITE FILE_PATH="coverage/Python_Programs$longest_line.coverage" NAME="longest_line Coverage Results" MODIFIED="1625686194956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File handling" />
   </component>
 </project>
